@@ -1,0 +1,15 @@
+current directory: /Users/NickFeng/restaurant_forum/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20180208-92043-7abpbq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/NickFeng/restaurant_forum/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/NickFeng/restaurant_forum/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/NickFeng/restaurant_forum/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20180208-92043-1gd24no
